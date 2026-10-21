@@ -1,5 +1,5 @@
-# User Interface Design Using Qt Designer
-In this project, the user interface (UI) has been designed using the Qt Designer software. The result is an optimized interface, implemented in Python within the PyCharm development environment and fully integrated. This project is intended for engineers who have participated in the comprehensive control course offered by Powerliner; it is provided entirely as an open-source resource.
+# UI Design Using Qt Designer
+In this project, the user interface (UI) has been designed using Qt Designer. The final result is an optimized interface, implemented and fully integrated with Python within the PyCharm development environment. This project is intended for engineers who have participated in the comprehensive control course offered by Powerliner and is provided as a fully open-source resource.
 # طراحی UI با استفاده از Tkinter 
 در این پروژه، رابط کاربری (UI) با استفاده از کتابخانه Tkinter طراحی شده است؛ بدین ترتیب، یک رابط کاربری بهینه در زبان پایتون و در محیط توسعه PyCharm ایجاد گردیده است. این پروژه برای مهندسانی در نظر گرفته شده که در دوره جامع کنترلِ ارائه‌شده توسط مجموعه (Powerliner) شرکت کرده‌اند و به‌طور کامل به عنوان یک منبع متن‌باز (Open-source) در دسترس قرار گرفته است.
 # نصب کتابخانه Tkinter  
