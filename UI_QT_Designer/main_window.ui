@@ -17,7 +17,7 @@
    <string notr="true">color :rgb(255, 0, 4)</string>
   </property>
   <widget class="QWidget" name="centralwidget">
-   <widget class="QPushButton" name="pbt_call_age">
+   <widget class="QPushButton" name="pushButton">
     <property name="geometry">
      <rect>
       <x>340</x>
@@ -40,7 +40,7 @@
      </rect>
     </property>
    </widget>
-   <widget class="QLabel" name="label">
+   <widget class="QLabel" name="Label">
     <property name="geometry">
      <rect>
       <x>320</x>
@@ -69,8 +69,8 @@
      <string>enter your age please:</string>
     </property>
    </widget>
-   <zorder>pbt_call_age</zorder>
-   <zorder>label</zorder>
+   <zorder>pushButton</zorder>
+   <zorder>Label</zorder>
    <zorder>plainTextEdit</zorder>
    <zorder>input_age</zorder>
   </widget>
